@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>House</key>
+		<string>Targaryen 🐉</string>
+		<key>Member</key>
+		<string>Danerys</string>
+	</dict>
+	<dict>
+		<key>House</key>
+		<string>Stark 🐺</string>
+		<key>Member</key>
+		<string>Bran</string>
+	</dict>
+	<dict>
+		<key>House</key>
+		<string>Lannister 🦁</string>
+		<key>Member</key>
+		<string>Tyrion</string>
+	</dict>
+	<dict>
+		<key>House</key>
+		<string>Tyrell 🌸</string>
+		<key>Member</key>
+		<string>Loras</string>
+	</dict>
+	<dict>
+		<key>House</key>
+		<string>Mormont 🐻</string>
+		<key>Member</key>
+		<string>Jorah</string>
+	</dict>
+	<dict>
+		<key>House</key>
+		<string>Baratheon 🦌</string>
+		<key>Member</key>
+		<string>Renly</string>
+	</dict>
+	<dict>
+		<key>House</key>
+		<string>Tully 🐟</string>
+		<key>Member</key>
+		<string>Brynden</string>
+	</dict>
+</array>
+</plist>
